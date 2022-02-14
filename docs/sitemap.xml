@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/help/</loc>
+    <loc>https://neotran001.github.io/shadow-site/help/</loc>
     <lastmod>2022-02-13T21:38:07-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/help/markdown-syntax/</loc>
+    <loc>https://neotran001.github.io/shadow-site/help/markdown-syntax/</loc>
     <lastmod>2022-02-13T21:38:07-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://neotran001.github.io/shadow-site/</loc>
     <lastmod>2022-02-13T21:38:07-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://neotran001.github.io/shadow-site/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://neotran001.github.io/shadow-site/tags/</loc>
   </url>
   
 </urlset>
